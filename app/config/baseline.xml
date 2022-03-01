@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>NewLineAtEndOfFile:ExampleInstrumentedTest.kt$com.example.android_homeworks_2k2s.ExampleInstrumentedTest.kt</ID>
+    <ID>NewLineAtEndOfFile:ExampleUnitTest.kt$com.example.android_homeworks_2k2s.ExampleUnitTest.kt</ID>
+    <ID>NewLineAtEndOfFile:MainActivity.kt$com.example.android_homeworks_2k2s.MainActivity.kt</ID>
+    <ID>PackageNaming:MainActivity.kt$package com.example.android_homeworks_2k2s</ID>
+  </CurrentIssues>
+</SmellBaseline>
