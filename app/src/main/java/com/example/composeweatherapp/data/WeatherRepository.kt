@@ -1,7 +1,7 @@
 package com.example.composeweatherapp.data
 
 import com.example.composeweatherapp.data.request.WeatherApi
-import com.example.android_homeworks_2k2s.data.response.DetailModel
+import com.example.composeweatherapp.data.response.DetailModel
 import com.example.composeweatherapp.const.DEFAULT_TIMEOUT
 import com.example.composeweatherapp.data.response.ListModel
 import okhttp3.Interceptor

@@ -1,6 +1,6 @@
 package com.example.composeweatherapp.service
 
-import com.example.android_homeworks_2k2s.data.response.DetailModel
+import com.example.composeweatherapp.data.response.DetailModel
 import com.example.composeweatherapp.data.WeatherRepository
 
 class CityService {
@@ -11,9 +11,9 @@ class CityService {
         lat: Double,
         lon: Double,
         cnt: Int
-    ): MutableList<City>? {
+    ): MutableList<City> {
         return repository.getNearCitiesWeather(lat, lon, cnt)
-            ?.let { mapper.map(it) }
+            .let { mapper.map(it) }
     }
 
     suspend fun getCityWeather(id: Int) : DetailModel? {

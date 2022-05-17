@@ -1,6 +1,6 @@
 package com.example.composeweatherapp.data.request
 
-import com.example.android_homeworks_2k2s.data.response.DetailModel
+import com.example.composeweatherapp.data.response.DetailModel
 import com.example.composeweatherapp.data.response.ListModel
 import retrofit2.http.GET
 import retrofit2.http.Query

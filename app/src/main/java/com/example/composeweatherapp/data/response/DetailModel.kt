@@ -1,6 +1,5 @@
-package com.example.android_homeworks_2k2s.data.response
+package com.example.composeweatherapp.data.response
 
-import com.example.composeweatherapp.data.response.*
 import com.google.gson.annotations.SerializedName
 
 data class DetailModel(
