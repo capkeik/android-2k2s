@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>MagicNumber:Color.kt$0xFF03DAC5</ID>
+    <ID>MagicNumber:Color.kt$0xFF3700B3</ID>
+    <ID>MagicNumber:Color.kt$0xFF6200EE</ID>
+    <ID>MagicNumber:Color.kt$0xFFBB86FC</ID>
+    <ID>NewLineAtEndOfFile:Color.kt$com.example.composeweatherapp.ui.theme.Color.kt</ID>
+    <ID>NewLineAtEndOfFile:ExampleInstrumentedTest.kt$com.example.composeweatherapp.ExampleInstrumentedTest.kt</ID>
+    <ID>NewLineAtEndOfFile:ExampleUnitTest.kt$com.example.composeweatherapp.ExampleUnitTest.kt</ID>
+    <ID>NewLineAtEndOfFile:MainActivity.kt$com.example.composeweatherapp.MainActivity.kt</ID>
+    <ID>NewLineAtEndOfFile:Shape.kt$com.example.composeweatherapp.ui.theme.Shape.kt</ID>
+    <ID>NewLineAtEndOfFile:Theme.kt$com.example.composeweatherapp.ui.theme.Theme.kt</ID>
+    <ID>NewLineAtEndOfFile:Type.kt$com.example.composeweatherapp.ui.theme.Type.kt</ID>
+  </CurrentIssues>
+</SmellBaseline>
